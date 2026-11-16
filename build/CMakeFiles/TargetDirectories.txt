@@ -1,0 +1,3 @@
+C:/Users/Royal/.gemini/antigravity/scratch/SnakeGame/build/CMakeFiles/SnakeGame.dir
+C:/Users/Royal/.gemini/antigravity/scratch/SnakeGame/build/CMakeFiles/edit_cache.dir
+C:/Users/Royal/.gemini/antigravity/scratch/SnakeGame/build/CMakeFiles/rebuild_cache.dir
